@@ -11,6 +11,7 @@ Hi there! I'm Norjamille, a full stack web developer with a passion for building
 I am currently working as a freelancer so please feel free to cantact me through any of the following links:
 
 - Email: norjamille.kasan@gmail.com
+- Linkedin : https://www.linkedin.com/in/norjamille-kasan-2b035b259/
 - Twitter: [@jamnvrmnd](https://twitter.com/jamnvrmnd)
 
 Thanks for visiting my profile!
