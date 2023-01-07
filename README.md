@@ -8,7 +8,7 @@ Hi there! I'm Norjamille, a full stack web developer with a passion for building
 
 ## Contact Me
 
-I currently work as a freelancer so please feel free to cantact me through any of the following links:
+I am currently working as a freelancer so please feel free to cantact me through any of the following links:
 
 - Email: norjamille.kasan@gmail.com
 - Twitter: [@jamnvrmnd](https://twitter.com/jamnvrmnd)
